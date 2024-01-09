@@ -52,7 +52,7 @@ export const experiencesData = [
   },
   {
     title: "Freelancer",
-    // location: "Houston, TX",
+    location: "Mississauga, Canada",
     description:
       "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
